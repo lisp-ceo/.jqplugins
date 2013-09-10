@@ -1,0 +1,15 @@
+[submodule "jquery"]
+	path = jquery
+	url = https://github.com/jquery/jquery.git
+[submodule "sweetjs"]
+	path = sweetjs
+	url = https://github.com/mozilla/sweet.js.git
+[submodule "underscore"]
+	path = underscore
+	url = https://github.com/jashkenas/underscore.git
+[submodule "backbone"]
+	path = backbone
+	url = https://github.com/jashkenas/backbone.git
+[submodule "swipebox"]
+	path = swipebox
+	url = https://github.com/brutaldesign/swipebox.git
