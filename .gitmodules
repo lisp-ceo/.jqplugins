@@ -13,3 +13,6 @@
 [submodule "swipebox"]
 	path = swipebox
 	url = https://github.com/brutaldesign/swipebox.git
+[submodule "DataTables"]
+	path = DataTables
+	url = https://github.com/DataTables/DataTables
